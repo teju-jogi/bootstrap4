@@ -3,7 +3,9 @@
 My Custom CSS
 =============
 
-Author:  teja
+Author:  Brad Hussey
+Updated: August 2013
+Notes:	 Hand coded for Udemy.com
 
 */
 
@@ -33,10 +35,9 @@ Author:  teja
 
 #wrapup{
  margin-top: 30px;
- background-color: grey;
+ background-color:peachpuff;
 
 }
-
 
 /* --------------------------------------
 Typography
@@ -78,12 +79,12 @@ Navbar
 
 .footer{
  margin-top: 2%;
- background:ivory;
+ background: blanchedalmond;
 
 }
 .footer h1 a{
  text-decoration:none;
- color:aliceblue;
+ color:white;
 }
 
 .socialIcons{
@@ -95,14 +96,10 @@ Navbar
  height: 450px;
  width: 100%;
 }
-#cid{
-    margin-top: 10%;
-    background-color: azure;
-}
 
 #jumbid
 {
- background-color:burlywood;
+ background-color: burlywood;
  margin-top: 20px;
 }
 .container{
@@ -110,6 +107,6 @@ Navbar
  margin-bottom: 10px;
 }
 body{
- background-color:beige;
+ background-color:cornsilk;
  font-family: 'Aleo';font-size: 22px;
 }
