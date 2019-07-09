@@ -1,0 +1,115 @@
+/*
+
+My Custom CSS
+=============
+
+Author:  teja
+
+*/
+
+
+/* --------------------------------------
+   Layout
+   -#------------------------------------- */
+   #featuresHeading{
+    margin: 2px;
+}
+
+
+#features img{
+    margin-top: 20px;
+}
+
+#features{
+ text-align: center;
+}
+#bigCallout{
+ margin:60px;
+}
+#inputMessage{
+ margin-bottom:15px;
+}
+
+
+#wrapup{
+ margin-top: 30px;
+ background-color: grey;
+
+}
+
+
+/* --------------------------------------
+Typography
+-------------------------------------- */
+
+
+
+/* --------------------------------------
+Navbar
+-------------------------------------- */
+
+#searchInput
+{
+    width:200px;
+}
+.navbar-brand
+{
+    padding:13px 15px;
+}
+.alert{
+    margin-top:20px;
+    display:none;
+}
+.tabbable img.thumbnail{
+    margin:0 20px 10px 0;
+
+}
+.well{
+    margin:20px 0;
+}
+
+
+
+.column1{
+ height: 500vh;
+
+
+}
+
+.footer{
+ margin-top: 2%;
+ background:ivory;
+
+}
+.footer h1 a{
+ text-decoration:none;
+ color:aliceblue;
+}
+
+.socialIcons{
+ color:blue;
+ font-size:30px;
+
+}
+.detail table img{
+ height: 450px;
+ width: 100%;
+}
+#cid{
+    margin-top: 10%;
+    background-color: azure;
+}
+
+#jumbid
+{
+ background-color:burlywood;
+ margin-top: 20px;
+}
+.container{
+ margin-top: 10px;
+ margin-bottom: 10px;
+}
+body{
+ background-color:beige;
+ font-family: 'Aleo';font-size: 22px;
+}
